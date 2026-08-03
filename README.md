@@ -1,64 +1,69 @@
 # 📊 Superstore Sales Dashboard
 
-## Dashboard Preview
+## 🌐 Live Dashboard
 
-![Dashboard](Superstore dashboard.png)
-
----
-
-## Project Overview
-
-This interactive Power BI dashboard analyzes Superstore sales performance to help business leaders monitor revenue, profit, customer behavior, and regional performance. It transforms raw sales data into meaningful insights for better decision-making.
+👉 **View the Interactive Power BI Dashboard:**  
+https://app.powerbi.com/links/0GsmYBphon?ctid=f9a743c3-3b53-49b3-963f-b36207247baf&pbi_source=linkShare
 
 ---
 
-## Business Questions Answered
+## 🖼️ Dashboard Preview
 
-- Which product categories generate the highest sales?
-- Which regions are most profitable?
-- What are the monthly sales trends?
-- Which customer segments contribute the most revenue?
-- How does profit compare across categories?
+![Superstore Dashboard](Superstore-Dashboard.png)
 
 ---
 
-## Dashboard Features
+## 📋 Project Overview
 
-- KPI Cards
-- Sales Analysis
-- Profit Analysis
-- Regional Performance
-- Customer Insights
-- Category Performance
-- Interactive Filters
-- Dynamic Visualizations
+This interactive Power BI dashboard analyzes Superstore sales data to provide actionable insights into sales performance, profitability, customer behavior, and regional trends. It enables business users to monitor key performance indicators (KPIs) and make informed, data-driven decisions.
 
 ---
 
-## Tools Used
+## 🎯 Business Objectives
+
+- Analyze overall sales and profit performance.
+- Identify top-performing product categories.
+- Compare sales across regions.
+- Monitor monthly sales trends.
+- Discover customer purchasing patterns.
+
+---
+
+## 📈 Dashboard Features
+
+- 📌 Sales KPI Cards
+- 📌 Profit KPI Cards
+- 📌 Sales by Category
+- 📌 Profit by Category
+- 📌 Regional Performance Analysis
+- 📌 Monthly Sales Trend
+- 📌 Customer Insights
+- 📌 Interactive Filters & Slicers
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
-- Power Query
 - DAX
+- Power Query
 - Microsoft Excel
 
 ---
 
-## Files Included
+## 📂 Repository Contents
 
 - Superstore.pbix
-- Superstore dashboard.png
+- Superstore-Dashboard.png
 - README.md
 
 ---
 
-## Author
+## 👤 Author
 
 **Elijah Chika**
 
-## 📬 Connect With Me
-
-Data Analyst passionate about transforming data into actionable business insights through Power BI, SQL, Excel, Python, and Tableau.
+**Data Analyst | Power BI | SQL | Excel | Python | Tableau**
 
 🌐 **Portfolio Website**  
 https://sites.google.com/view/chikas-data-analytics/home
@@ -66,4 +71,9 @@ https://sites.google.com/view/chikas-data-analytics/home
 💻 **GitHub**  
 https://github.com/Elijahchika
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+📊 **Live Power BI Dashboard**  
+https://app.powerbi.com/links/0GsmYBphon?ctid=f9a743c3-3b53-49b3-963f-b36207247baf&pbi_source=linkShare
+
+---
+
+⭐ *If you found this project helpful, please consider giving this repository a star!*
